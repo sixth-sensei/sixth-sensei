@@ -7,15 +7,13 @@ I'm currently developing my scripting skills in __Phython__ and __Shell__. Using
 ## 📫 Let's Connect
 There's a popular saying that goes *"we all can't do this life thing all by ourselves"* - Holding on to this, I'm constantly open to connecting with like minded tech enthusiasts whom i can learn from and also impact. I can be reached via:
 
-- **Twitter**: ***[sec-wiz](https://twitter.com/bydimeji)***
+- __[Twitter](https://twitter.com/bydimeji)__
 
-## ⚡ Fun fact
-'sec-wiz' is short for Security Wizard, kind of touchè; right 😀
-
+[![GitHub Follow](https://img.shields.io/github/followers/sixth-sensei?style=social)](https://github.com/sixth-sensei)
 
 
 <!--
-**sec-wiz/sec-wiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sixth-sensei/sixth-sensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
