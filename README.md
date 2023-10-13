@@ -1,4 +1,8 @@
-### Hi there 👋
+## About
+Hi there 👋 I'm Oladimeji, a Cybersecurity enthusiast with great interest in Offensive security. Welcome to my Github profile, I'll be using this space to document my learnings as well as projects that I work on in this exciting and explorative field.
+
+## 🔭 Where I am Presently
+I'm currently honing my scripting skills in Phython and Shell. Starting out on Tryhackme to gain hands on and near real-world experience that will further enhance my growth; really excited about this journey as I'm commited to being the better version of myself.
 
 <!--
 **sec-wiz/sec-wiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
