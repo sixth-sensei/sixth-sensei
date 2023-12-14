@@ -1,5 +1,5 @@
 ## Intro
-Hi there 👋 I'm __Oladimeji__, a Cybersecurity enthusiast with great interest in Offensive security. Welcome to my Github profile, I'll be using this space to document my learnings as well as projects that I work on in this exciting and explorative field.
+Hi there 👋 I'm __AbdulFatai__, a Cybersecurity enthusiast with great interest in Offensive security. Welcome to my Github profile, I'll be using this space to document my learnings as well as projects that I work on in this exciting and explorative field.
 
 ## 🌱 Where I am Presently
 I'm currently developing my scripting skills in __Phython__ and __Shell__. Using Tryhackme to gain hands on and near real-world experience via labs that will further enhance my growth; really excited about this journey as I'm commited to being the better version of myself.
