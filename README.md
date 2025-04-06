@@ -8,7 +8,7 @@ Hi there 👋 I'm __AbdulFatai__, a Cloud Support Engineer and Cybersecurity ent
 
 ## 📫 Let's Connect
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bydimeji?style=social)](https://x.com/bydimeji)   [![GitHub Follow](https://img.shields.io/github/followers/sixth-sensei?style=social)](https://github.com/sixth-sensei)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bydimeji?style=social)](https://x.com/bydimeji) [![GitHub Follow](https://img.shields.io/github/followers/sixth-sensei?style=social)](https://github.com/sixth-sensei)
 
 
 <!--
