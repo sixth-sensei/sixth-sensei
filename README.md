@@ -6,11 +6,15 @@ Hi there 👋 I'm __AbdulFatai__, a Cloud Support Engineer and Cybersecurity ent
 
 - Gaining hands-on experience with homelabs and TryHackMe.
 - Tackling Forensic challenges/Investigations on BTLO
-- Mastering Azure 
+- Mastering Azure
+
+## 🚀 Stats
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2381914" style='border:none;'></iframe>
 
 ## 📫 Let's Connect
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bydimeji?style=social)](https://x.com/bydimeji) [![GitHub Follow](https://img.shields.io/github/followers/sixth-sensei?style=social)](https://github.com/sixth-sensei)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/bydimeji?style=social)](https://x.com/bydimeji) [![GitHub Follow](https://img.shields.io/github/followers/sixth-sensei?style=social)](https://github.com/sixth-sensei) 
 
 
 <!--
