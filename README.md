@@ -10,7 +10,7 @@ Hi there 👋 I'm __AbdulFatai__, a Cloud Support Engineer and Cybersecurity ent
 
 ## 🚀 Stats
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2381914" style='border:none;'></iframe>
+![tryhackme stats](https://raw.githubusercontent.com/sixth-sensei/sixth-sensei/master/assets/thm_propic.png)
 
 ## 📫 Let's Connect
 
