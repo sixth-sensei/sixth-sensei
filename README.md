@@ -10,7 +10,7 @@ Hi there 👋 I'm __AbdulFatai__, a Cloud Support Engineer and Cybersecurity ent
 
 ## 🚀 Stats
 
-![tryhackme stats](https://raw.githubusercontent.com/sixth-sensei/sixth-sensei/master/assets/thm_profile.png)
+[![tryhackme stats](https://raw.githubusercontent.com/sixth-sensei/sixth-sensei/master/assets/thm_profile.png)][tryhackme]
 
 ## 📫 Let's Connect
 
@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[tryhackme]: https://tryhackme.com/p/Dim3ji
