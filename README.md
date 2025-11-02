@@ -10,7 +10,7 @@ Hi there 👋 I'm __AbdulFatai__, a Cloud Support Engineer and Cybersecurity ent
 
 ## 🚀 Stats
 
-![tryhackme stats](https://raw.githubusercontent.com/Dim3ji/Dim3ji/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/sixth-sensei/sixth-sensei/master/assets/thm_profile.png)
 
 ## 📫 Let's Connect
 
